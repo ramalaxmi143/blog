@@ -1,3 +1,5 @@
+> *__Update Jan 2025__: I have moved my blog from blog.itsrakesh.com to [itsrakesh.com/blog](https://itsrakesh.com/blog). Also, switched to Gatsby from NextJs and Contentful from Hygraph. ([GitHub repo](https://github.com/RakeshPotnuru/portfolio))*
+
 <div id="top"></div>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1c639728-6ada-4eaa-beb6-4bdcb492baa1/deploy-status)](https://app.netlify.com/sites/blog-itsrakesh/deploys)
